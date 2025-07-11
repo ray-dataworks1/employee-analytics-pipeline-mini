@@ -44,7 +44,7 @@ Saves the data to employee_data.csv using the standard csv library
 
 1. Clone or Download This Repo
 For Bash/Shell scripters: 
-git clone https://github.com/YOUR_GITHUB_USERNAME/pipeline_automation_mini_project.git
+git clone https://github.com/ray-dataworks1/pipeline_automation_mini_project.git
 cd pipeline_automation_mini_project/data
 
 3. Run the Pipeline
