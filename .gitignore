@@ -23,11 +23,6 @@ Thumbs.db
 # Logs and output
 *.log
 
-# Data files
-*.csv
-*.tsv
-*.xlsx
-
 # Secret files (if you use any)
 .env
 .env.*
