@@ -30,3 +30,7 @@ if __name__ == "__main__":
 
     read_and_filter('employee_data.csv', 'employee_over_60k_london_data.csv')
     print("Full pipeline and automation script executed successfully! Check the output files.")
+
+from datetime import datetime
+with open("pipeline_run.log", "a") as log:
+    log.write(f"Pipeline ran at {datetime.now()}\n")
