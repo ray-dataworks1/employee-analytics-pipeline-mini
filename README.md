@@ -68,7 +68,6 @@ This project is for anyone who feels intimidated by code, automation, or “bein
 Progress > Perfection.
 
 ## Next Steps & Ideas
-Automate with a Bash script or cron job
 
 Visualise employee data (e.g., salary by department)
 
